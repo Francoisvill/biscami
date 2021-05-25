@@ -94,7 +94,7 @@
 .u-section-1 .u-text-7 {
   font-size: 1.125rem;
   text-transform: uppercase;
-  margin: 27px 35px 0;
+  margin: 27px 57px 0 37px;
 }
 
 .u-section-1 .u-layout-cell-4 {
@@ -162,8 +162,7 @@
   }
 
   .u-section-1 .u-text-7 {
-    margin-left: 37px;
-    margin-right: 0;
+    margin-right: 20px;
   }
 
   .u-section-1 .u-layout-cell-4 {
@@ -219,6 +218,7 @@
 
   .u-section-1 .u-text-7 {
     margin-top: -117px;
+    margin-right: 0;
   }
 
   .u-section-1 .u-layout-cell-4 {
